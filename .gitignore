@@ -1,2 +1,5 @@
 .idea/
 .vagrant/
+
+target/
+*.skel.rs
